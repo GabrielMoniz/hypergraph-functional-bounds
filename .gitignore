@@ -1,0 +1,10 @@
+# Julia build artifacts and dependency lock file
+Manifest.toml
+
+# Julia precompilation cache
+*.ji
+
+# Editor swap / backup files
+*.swp
+*~
+.DS_Store

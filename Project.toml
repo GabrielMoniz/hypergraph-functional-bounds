@@ -1,0 +1,11 @@
+name = "hypergraph-functional-bounds"
+uuid = "a05cfaf2-8e73-4b61-b8fe-b61a4b68a016"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Ket = "412c778c-5d61-4f6c-9a9d-fb5a16b89ba0"
+
+[compat]
+Combinatorics = "1"
+Ket = "0.9"
+julia = "1.9"
