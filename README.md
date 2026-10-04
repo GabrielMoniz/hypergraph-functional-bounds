@@ -4,6 +4,13 @@ Julia code for computing the **local (classical)** and **quantum** bounds of the
 
 > G. Moniz, *"k-Uniform complete hypergraph states stabilizers in terms of local operators"*, submitted to *Physical Review A* (arXiv preprint, 2025).
 
+## Associated manuscript
+
+G. M. Arantes, *k-Uniform complete hypergraph states stabilizers in terms of local operators*, arXiv:2511.15911 (2025).  
+https://arxiv.org/abs/2511.15911
+
+All numerical results reported in the manuscript were generated using this repository (release v1.0.0).
+
 ---
 
 ## Background
