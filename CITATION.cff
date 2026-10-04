@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "hypergraph-functional-bounds"
+abstract: >
+  Julia code for computing the local (classical) and quantum bounds of the
+  Bell functional associated with k-uniform complete hypergraph states, as
+  constructed in the manuscript "k-Uniform complete hypergraph states
+  stabilizers in terms of local operators".
+
+version: "1.0.0"
+date-released: "2025-01-01"
+
+authors:
+  - family-names: "Moniz"
+    given-names: "Gabriel"
+
+license: MIT
+
+repository-code: "https://github.com/GabrielMoniz/hypergraph-functional-bounds"
+
+keywords:
+  - quantum information
+  - hypergraph states
+  - Bell inequalities
+  - stabilizer formalism
+  - Julia
+
+references:
+  - type: article
+    authors:
+      - family-names: "Moniz"
+        given-names: "Gabriel"
+    title: "k-Uniform complete hypergraph states stabilizers in terms of local operators"
+    journal: "Physical Review A"
+    notes: "submitted / under review; update URL with final arXiv identifier"
+    url: "https://arxiv.org/abs/XXXX.XXXXX"
